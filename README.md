@@ -1,7 +1,15 @@
 # somewidgets
 
-A new Flutter project.
+A new Flutter project. Just adding some products to cart page using provider
 
+Intro page
+
+Main page
+
+![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/6d3e7644-2930-416d-983e-74c260e71935)
+
+
+Cart page
 ## Getting Started
 
 This project is a starting point for a Flutter application.
