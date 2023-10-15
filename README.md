@@ -4,6 +4,9 @@ A new Flutter project. Just adding some products to cart page using provider
 
 Intro page
 
+![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/74bab1ae-468f-4c5f-ac7e-7f822425b572)
+
+
 Main page
 
 ![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/6d3e7644-2930-416d-983e-74c260e71935)
