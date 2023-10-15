@@ -12,9 +12,10 @@ Main page
 
 ![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/7251cf1d-d13a-4f05-abcc-39b66c0c3290)
 
-
-
 Cart page
+
+![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/29c0a236-3e8c-4ad4-82d7-0e92fb0bc484)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
