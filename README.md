@@ -8,6 +8,8 @@ Main page
 
 ![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/6d3e7644-2930-416d-983e-74c260e71935)
 
+![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/de6da76e-ef01-4075-a79d-2546bb81a1c7)
+
 ![image](https://github.com/RakhmanSabirov/mini_ecomerrce/assets/140696861/7251cf1d-d13a-4f05-abcc-39b66c0c3290)
 
 
